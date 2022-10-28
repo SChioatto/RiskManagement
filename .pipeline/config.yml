@@ -29,10 +29,8 @@
           apiEndpoint: "https://api.cf.us10.hana.ondemand.com"
           org: "e705ddd1trial"
           space: "dev"
-          credentialsId: "schioatto.cf"
+          credentialsId: "cfdeploy"
           appName: ""
         mtaDeployParameters: "-f --version-rule ALL"
       artifactPrepareVersion:
         versioningType: "cloud_noTag"
-
-### Useless comment
